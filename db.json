@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Asif",
+      "email": "asifpatel068@gmail.com",
+      "password": "Asif",
+      "isDoctor": false
+    },
+    {
+      "username": "a@gmail.com",
+      "email": "a@gmail.com",
+      "password": "a",
+      "isDoctor": false,
+      "id": 2
+    },
+    {
+      "username": "jane@gmail.com",
+      "email": "jane@gmail.com",
+      "password": "jane",
+      "isDoctor": true,
+      "id": 3
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Jane Doe",
+      "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ]
+}
